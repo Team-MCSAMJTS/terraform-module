@@ -15,7 +15,7 @@
 - To see what environment you are at anytime 
 > terraform workspace show
 
-# when you apply the execution in the evvironment, it creates separate terraform.tfstate file for each env
+- Wwhen you apply the execution in the evvironment, it creates separate terraform.tfstate file for each env
 
 
 BE VERY CAREFUL USING TERRAFORM WORKSPACE TO NOT DELETE AN ENV BY MISTAKE ENSURE YOU ARE IN THE DESIRED ENV
