@@ -4,7 +4,7 @@
 
 // do this for stage & prod replacing "dev";It creates a forlder terraform.tfstate.d with all the three envs in it
 
--install "tree" to see what has been done as you go alone
+- Install "tree" to see what has been done as you go alone
 
 - To switch to an environment for execution in it & for help with commands run
 $ terraform workspace -h
