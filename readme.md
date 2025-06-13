@@ -7,11 +7,11 @@
 -install "tree" to see what has been done as you go alone
 
 - To switch to an environment for execution in it & for help with commands run
- $ terraform workspace -h
+$ terraform workspace -h
 - You may want to do  git init when you switch into any env newly
 
 - To enter any env e.g dev
-> terraform workspace select dev            // you can do this for stage & prod replacing "dev"
+>> terraform workspace select dev            // you can do this for stage & prod replacing "dev"
 
 - To see what environment you are at anytime 
 > terraform workspace show
