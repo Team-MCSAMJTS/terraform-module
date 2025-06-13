@@ -12,6 +12,7 @@
 
 - To enter any env e.g dev
 >> terraform workspace select dev           
+
 // you can do this for stage & prod replacing "dev"
 
 - To see what environment you are at anytime 
